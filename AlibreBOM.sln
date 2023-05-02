@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlibreBOM", "AlibreBOM\AlibreBOM.csproj", "{331D2798-21BF-4173-A33F-5A4F58E0158A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{331D2798-21BF-4173-A33F-5A4F58E0158A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331D2798-21BF-4173-A33F-5A4F58E0158A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331D2798-21BF-4173-A33F-5A4F58E0158A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331D2798-21BF-4173-A33F-5A4F58E0158A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33DEF4F6-A937-495D-8D46-8FAEE0CCB66C}
+	EndGlobalSection
+EndGlobal

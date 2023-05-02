@@ -1,0 +1,11 @@
+<AlibreDesignAddOn specificationVersion="1" friendlyName="Alibre BOM">
+<Author name="David Bolsover" link="https://github.com/bolsover/AlibreBOM"/>
+   <Copyright>Copyright (c) 2023. David Bolsover</Copyright>
+   <DLL type="Managed" loadedWhen="Startup" location="AlibreBOM.dll"/>
+   <!--<Icon location="3DPrint.ico"/>  -->
+   <Menu text="BOM"/>
+   <Description>Alibre BOM</Description> 
+   <Workspace type="Assembly"/>
+   <Property name="Identifier" value="{66ae992c-e834-11ed-a05b-0242ac120003}"/>
+</AlibreDesignAddOn>
+
